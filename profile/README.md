@@ -8,6 +8,8 @@
 
 We build infrastructure, applications, and launch tooling for the Robinhood Chain ecosystem, and we partner with teams to ship tokens and utility products on it.
 
+[![Telegram](https://img.shields.io/badge/Contact-@teraus111-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/teraus111)
+
 </div>
 
 ---
@@ -86,7 +88,9 @@ Sherwood Labs works as a **technical group for teams launching tokens and buildi
 
 ## 📬 Work With Us
 
-Launching a token or building utility on Robinhood Chain? Open an issue on any repo or reach out to the team to talk about your project.
+Launching a token or building utility on Robinhood Chain? Reach out to talk about your project.
+
+<a href="https://t.me/teraus111"><img src="https://img.shields.io/badge/Telegram-@teraus111-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @teraus111"></a>
 
 ---
 
